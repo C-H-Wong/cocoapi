@@ -35,7 +35,7 @@
 ## Installation
 Currently, you could install by run
 ```shell
-pip install "git+"
+pip install "git+https://github.com/C-H-Wong/cocoapi.git"
 
 ```
 
